@@ -1,0 +1,1 @@
+int inputbutton(ulong Long);
